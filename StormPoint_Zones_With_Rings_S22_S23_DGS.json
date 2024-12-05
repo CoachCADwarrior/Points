@@ -1,5 +1,1844 @@
 [
     {
+        "x": 6165,
+        "y": 8100,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "3863417f716eb0490c822e177ab53bb4",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 8865,
+                "y": 8594,
+                "r": 4894,
+                "stage": 0,
+                "hash": "3863417f716eb0490c822e177ab53bb4"
+            },
+            {
+                "x": 6581,
+                "y": 7609,
+                "r": 2407,
+                "stage": 1,
+                "hash": "3863417f716eb0490c822e177ab53bb4"
+            },
+            {
+                "x": 6423,
+                "y": 8156,
+                "r": 1284,
+                "stage": 2,
+                "hash": "3863417f716eb0490c822e177ab53bb4"
+            },
+            {
+                "x": 5848,
+                "y": 8073,
+                "r": 642,
+                "stage": 3,
+                "hash": "3863417f716eb0490c822e177ab53bb4"
+            },
+            {
+                "x": 6165,
+                "y": 8100,
+                "r": 321,
+                "stage": 4,
+                "hash": "3863417f716eb0490c822e177ab53bb4"
+            }
+        ]
+    },
+    {
+        "x": 1671,
+        "y": 4453,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "7fc66373e9754f2ca373d6a94a037c49",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 5952,
+                "y": 5893,
+                "r": 4894,
+                "stage": 0,
+                "hash": "7fc66373e9754f2ca373d6a94a037c49"
+            },
+            {
+                "x": 3544,
+                "y": 5272,
+                "r": 2407,
+                "stage": 1,
+                "hash": "7fc66373e9754f2ca373d6a94a037c49"
+            },
+            {
+                "x": 2613,
+                "y": 4644,
+                "r": 1284,
+                "stage": 2,
+                "hash": "7fc66373e9754f2ca373d6a94a037c49"
+            },
+            {
+                "x": 1991,
+                "y": 4486,
+                "r": 642,
+                "stage": 3,
+                "hash": "7fc66373e9754f2ca373d6a94a037c49"
+            },
+            {
+                "x": 1671,
+                "y": 4453,
+                "r": 321,
+                "stage": 4,
+                "hash": "7fc66373e9754f2ca373d6a94a037c49"
+            }
+        ]
+    },
+    {
+        "x": 10118,
+        "y": 1800,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "06fd7e5f492e4cb45d2408459dc4b3a2",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 9066,
+                "y": 6117,
+                "r": 4894,
+                "stage": 0,
+                "hash": "06fd7e5f492e4cb45d2408459dc4b3a2"
+            },
+            {
+                "x": 9430,
+                "y": 3657,
+                "r": 2407,
+                "stage": 1,
+                "hash": "06fd7e5f492e4cb45d2408459dc4b3a2"
+            },
+            {
+                "x": 9696,
+                "y": 2566,
+                "r": 1284,
+                "stage": 2,
+                "hash": "06fd7e5f492e4cb45d2408459dc4b3a2"
+            },
+            {
+                "x": 10157,
+                "y": 2118,
+                "r": 642,
+                "stage": 3,
+                "hash": "06fd7e5f492e4cb45d2408459dc4b3a2"
+            },
+            {
+                "x": 10118,
+                "y": 1800,
+                "r": 321,
+                "stage": 4,
+                "hash": "06fd7e5f492e4cb45d2408459dc4b3a2"
+            }
+        ]
+    },
+    {
+        "x": 8436,
+        "y": 10053,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "97a0664124338e50204fdbe8d51e75a5",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 9008,
+                "y": 7381,
+                "r": 4894,
+                "stage": 0,
+                "hash": "97a0664124338e50204fdbe8d51e75a5"
+            },
+            {
+                "x": 7834,
+                "y": 9573,
+                "r": 2407,
+                "stage": 1,
+                "hash": "97a0664124338e50204fdbe8d51e75a5"
+            },
+            {
+                "x": 8570,
+                "y": 9865,
+                "r": 1284,
+                "stage": 2,
+                "hash": "97a0664124338e50204fdbe8d51e75a5"
+            },
+            {
+                "x": 8296,
+                "y": 9869,
+                "r": 642,
+                "stage": 3,
+                "hash": "97a0664124338e50204fdbe8d51e75a5"
+            },
+            {
+                "x": 8436,
+                "y": 10053,
+                "r": 321,
+                "stage": 4,
+                "hash": "97a0664124338e50204fdbe8d51e75a5"
+            }
+        ]
+    },
+    {
+        "x": 8654,
+        "y": 2707,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "d639081d30a30126d4ffe14a9e782ebc",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 9148,
+                "y": 6599,
+                "r": 4894,
+                "stage": 0,
+                "hash": "d639081d30a30126d4ffe14a9e782ebc"
+            },
+            {
+                "x": 8824,
+                "y": 4133,
+                "r": 2407,
+                "stage": 1,
+                "hash": "d639081d30a30126d4ffe14a9e782ebc"
+            },
+            {
+                "x": 9377,
+                "y": 3156,
+                "r": 1284,
+                "stage": 2,
+                "hash": "d639081d30a30126d4ffe14a9e782ebc"
+            },
+            {
+                "x": 8912,
+                "y": 2738,
+                "r": 642,
+                "stage": 3,
+                "hash": "d639081d30a30126d4ffe14a9e782ebc"
+            },
+            {
+                "x": 8654,
+                "y": 2707,
+                "r": 321,
+                "stage": 4,
+                "hash": "d639081d30a30126d4ffe14a9e782ebc"
+            }
+        ]
+    },
+    {
+        "x": 8947,
+        "y": 2213,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "dd94d461b730fc72d8dd240ea4900da4",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7767,
+                "y": 6250,
+                "r": 4894,
+                "stage": 0,
+                "hash": "dd94d461b730fc72d8dd240ea4900da4"
+            },
+            {
+                "x": 9230,
+                "y": 4239,
+                "r": 2407,
+                "stage": 1,
+                "hash": "dd94d461b730fc72d8dd240ea4900da4"
+            },
+            {
+                "x": 9008,
+                "y": 3138,
+                "r": 1284,
+                "stage": 2,
+                "hash": "dd94d461b730fc72d8dd240ea4900da4"
+            },
+            {
+                "x": 8878,
+                "y": 2513,
+                "r": 642,
+                "stage": 3,
+                "hash": "dd94d461b730fc72d8dd240ea4900da4"
+            },
+            {
+                "x": 8947,
+                "y": 2213,
+                "r": 321,
+                "stage": 4,
+                "hash": "dd94d461b730fc72d8dd240ea4900da4"
+            }
+        ]
+    },
+    {
+        "x": 6942,
+        "y": 3187,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "5c0cfb5a956aef3bda878e0475a801aa",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 8156,
+                "y": 7101,
+                "r": 4894,
+                "stage": 0,
+                "hash": "5c0cfb5a956aef3bda878e0475a801aa"
+            },
+            {
+                "x": 6910,
+                "y": 4949,
+                "r": 2407,
+                "stage": 1,
+                "hash": "5c0cfb5a956aef3bda878e0475a801aa"
+            },
+            {
+                "x": 7195,
+                "y": 3889,
+                "r": 1284,
+                "stage": 2,
+                "hash": "5c0cfb5a956aef3bda878e0475a801aa"
+            },
+            {
+                "x": 6917,
+                "y": 3372,
+                "r": 642,
+                "stage": 3,
+                "hash": "5c0cfb5a956aef3bda878e0475a801aa"
+            },
+            {
+                "x": 6942,
+                "y": 3187,
+                "r": 321,
+                "stage": 4,
+                "hash": "5c0cfb5a956aef3bda878e0475a801aa"
+            }
+        ]
+    },
+    {
+        "x": 9745,
+        "y": 10670,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "10af453183aae72ab7aaa9a5f2dd54b4",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7740,
+                "y": 8083,
+                "r": 4894,
+                "stage": 0,
+                "hash": "10af453183aae72ab7aaa9a5f2dd54b4"
+            },
+            {
+                "x": 9290,
+                "y": 10028,
+                "r": 2407,
+                "stage": 1,
+                "hash": "10af453183aae72ab7aaa9a5f2dd54b4"
+            },
+            {
+                "x": 10129,
+                "y": 10565,
+                "r": 1284,
+                "stage": 2,
+                "hash": "10af453183aae72ab7aaa9a5f2dd54b4"
+            },
+            {
+                "x": 9525,
+                "y": 10538,
+                "r": 642,
+                "stage": 3,
+                "hash": "10af453183aae72ab7aaa9a5f2dd54b4"
+            },
+            {
+                "x": 9745,
+                "y": 10670,
+                "r": 321,
+                "stage": 4,
+                "hash": "10af453183aae72ab7aaa9a5f2dd54b4"
+            },
+            {
+                "x": 9732,
+                "y": 10694,
+                "r": 0,
+                "stage": 5,
+                "hash": "10af453183aae72ab7aaa9a5f2dd54b4"
+            }
+        ]
+    },
+    {
+        "x": 11785,
+        "y": 7568,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "ae014f41e203cd437ff34652b6467105",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 9233,
+                "y": 7893,
+                "r": 4894,
+                "stage": 0,
+                "hash": "ae014f41e203cd437ff34652b6467105"
+            },
+            {
+                "x": 11103,
+                "y": 6253,
+                "r": 2407,
+                "stage": 1,
+                "hash": "ae014f41e203cd437ff34652b6467105"
+            },
+            {
+                "x": 11223,
+                "y": 7240,
+                "r": 1284,
+                "stage": 2,
+                "hash": "ae014f41e203cd437ff34652b6467105"
+            },
+            {
+                "x": 11649,
+                "y": 7610,
+                "r": 642,
+                "stage": 3,
+                "hash": "ae014f41e203cd437ff34652b6467105"
+            },
+            {
+                "x": 11785,
+                "y": 7568,
+                "r": 321,
+                "stage": 4,
+                "hash": "ae014f41e203cd437ff34652b6467105"
+            }
+        ]
+    },
+    {
+        "x": 5008,
+        "y": 7638,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "00b65ff4fe2262f81909a4c49f3a78db",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7955,
+                "y": 6833,
+                "r": 4894,
+                "stage": 0,
+                "hash": "00b65ff4fe2262f81909a4c49f3a78db"
+            },
+            {
+                "x": 5564,
+                "y": 7516,
+                "r": 2407,
+                "stage": 1,
+                "hash": "00b65ff4fe2262f81909a4c49f3a78db"
+            },
+            {
+                "x": 4646,
+                "y": 8095,
+                "r": 1284,
+                "stage": 2,
+                "hash": "00b65ff4fe2262f81909a4c49f3a78db"
+            },
+            {
+                "x": 4865,
+                "y": 7905,
+                "r": 642,
+                "stage": 3,
+                "hash": "00b65ff4fe2262f81909a4c49f3a78db"
+            },
+            {
+                "x": 5008,
+                "y": 7638,
+                "r": 321,
+                "stage": 4,
+                "hash": "00b65ff4fe2262f81909a4c49f3a78db"
+            }
+        ]
+    },
+    {
+        "x": 4758,
+        "y": 3890,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "59cefe829fabff9fceb1d7ae14f1672c",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7000,
+                "y": 7415,
+                "r": 4894,
+                "stage": 0,
+                "hash": "59cefe829fabff9fceb1d7ae14f1672c"
+            },
+            {
+                "x": 6030,
+                "y": 5127,
+                "r": 2407,
+                "stage": 1,
+                "hash": "59cefe829fabff9fceb1d7ae14f1672c"
+            },
+            {
+                "x": 4977,
+                "y": 4736,
+                "r": 1284,
+                "stage": 2,
+                "hash": "59cefe829fabff9fceb1d7ae14f1672c"
+            },
+            {
+                "x": 4950,
+                "y": 4112,
+                "r": 642,
+                "stage": 3,
+                "hash": "59cefe829fabff9fceb1d7ae14f1672c"
+            },
+            {
+                "x": 4758,
+                "y": 3890,
+                "r": 321,
+                "stage": 4,
+                "hash": "59cefe829fabff9fceb1d7ae14f1672c"
+            }
+        ]
+    },
+    {
+        "x": 4429,
+        "y": 3283,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "59828eb423b6bfdea314db96b649ffa8",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7766,
+                "y": 6159,
+                "r": 4894,
+                "stage": 0,
+                "hash": "59828eb423b6bfdea314db96b649ffa8"
+            },
+            {
+                "x": 5676,
+                "y": 4812,
+                "r": 2407,
+                "stage": 1,
+                "hash": "59828eb423b6bfdea314db96b649ffa8"
+            },
+            {
+                "x": 5261,
+                "y": 3768,
+                "r": 1284,
+                "stage": 2,
+                "hash": "59828eb423b6bfdea314db96b649ffa8"
+            },
+            {
+                "x": 4703,
+                "y": 3450,
+                "r": 642,
+                "stage": 3,
+                "hash": "59828eb423b6bfdea314db96b649ffa8"
+            },
+            {
+                "x": 4429,
+                "y": 3283,
+                "r": 321,
+                "stage": 4,
+                "hash": "59828eb423b6bfdea314db96b649ffa8"
+            }
+        ]
+    },
+    {
+        "x": 1823,
+        "y": 5624,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "fb5706196c1270f65d6a3e5d8ad75ae7",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 6347,
+                "y": 6021,
+                "r": 4894,
+                "stage": 0,
+                "hash": "fb5706196c1270f65d6a3e5d8ad75ae7"
+            },
+            {
+                "x": 3874,
+                "y": 5762,
+                "r": 2407,
+                "stage": 1,
+                "hash": "fb5706196c1270f65d6a3e5d8ad75ae7"
+            },
+            {
+                "x": 2772,
+                "y": 5545,
+                "r": 1284,
+                "stage": 2,
+                "hash": "fb5706196c1270f65d6a3e5d8ad75ae7"
+            },
+            {
+                "x": 2141,
+                "y": 5665,
+                "r": 642,
+                "stage": 3,
+                "hash": "fb5706196c1270f65d6a3e5d8ad75ae7"
+            },
+            {
+                "x": 1823,
+                "y": 5624,
+                "r": 321,
+                "stage": 4,
+                "hash": "fb5706196c1270f65d6a3e5d8ad75ae7"
+            }
+        ]
+    },
+    {
+        "x": 12840,
+        "y": 10709,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "366d11ac8bc316f9b3983c0cd30b5236",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 9414,
+                "y": 8051,
+                "r": 4894,
+                "stage": 0,
+                "hash": "366d11ac8bc316f9b3983c0cd30b5236"
+            },
+            {
+                "x": 11001,
+                "y": 9965,
+                "r": 2407,
+                "stage": 1,
+                "hash": "366d11ac8bc316f9b3983c0cd30b5236"
+            },
+            {
+                "x": 12108,
+                "y": 10154,
+                "r": 1284,
+                "stage": 2,
+                "hash": "366d11ac8bc316f9b3983c0cd30b5236"
+            },
+            {
+                "x": 12564,
+                "y": 10606,
+                "r": 642,
+                "stage": 3,
+                "hash": "366d11ac8bc316f9b3983c0cd30b5236"
+            },
+            {
+                "x": 12840,
+                "y": 10709,
+                "r": 321,
+                "stage": 4,
+                "hash": "366d11ac8bc316f9b3983c0cd30b5236"
+            }
+        ]
+    },
+    {
+        "x": 6011,
+        "y": 8237,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "3e70a11ef252501d09d2f5d61fc3cda9",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7143,
+                "y": 6704,
+                "r": 4894,
+                "stage": 0,
+                "hash": "3e70a11ef252501d09d2f5d61fc3cda9"
+            },
+            {
+                "x": 5001,
+                "y": 7967,
+                "r": 2407,
+                "stage": 1,
+                "hash": "3e70a11ef252501d09d2f5d61fc3cda9"
+            },
+            {
+                "x": 6083,
+                "y": 7834,
+                "r": 1284,
+                "stage": 2,
+                "hash": "3e70a11ef252501d09d2f5d61fc3cda9"
+            },
+            {
+                "x": 6282,
+                "y": 8393,
+                "r": 642,
+                "stage": 3,
+                "hash": "3e70a11ef252501d09d2f5d61fc3cda9"
+            },
+            {
+                "x": 6011,
+                "y": 8237,
+                "r": 321,
+                "stage": 4,
+                "hash": "3e70a11ef252501d09d2f5d61fc3cda9"
+            }
+        ]
+    },
+    {
+        "x": 2370,
+        "y": 7699,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "17449257401a33a9bed3e2070caad418",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 6898,
+                "y": 8060,
+                "r": 4894,
+                "stage": 0,
+                "hash": "17449257401a33a9bed3e2070caad418"
+            },
+            {
+                "x": 4423,
+                "y": 7821,
+                "r": 2407,
+                "stage": 1,
+                "hash": "17449257401a33a9bed3e2070caad418"
+            },
+            {
+                "x": 3314,
+                "y": 7641,
+                "r": 1284,
+                "stage": 2,
+                "hash": "17449257401a33a9bed3e2070caad418"
+            },
+            {
+                "x": 2684,
+                "y": 7765,
+                "r": 642,
+                "stage": 3,
+                "hash": "17449257401a33a9bed3e2070caad418"
+            },
+            {
+                "x": 2370,
+                "y": 7699,
+                "r": 321,
+                "stage": 4,
+                "hash": "17449257401a33a9bed3e2070caad418"
+            }
+        ]
+    },
+    {
+        "x": 7822,
+        "y": 10055,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "49dc8a703f214b7890b309a1ada51032",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7971,
+                "y": 6739,
+                "r": 4894,
+                "stage": 0,
+                "hash": "49dc8a703f214b7890b309a1ada51032"
+            },
+            {
+                "x": 7194,
+                "y": 9101,
+                "r": 2407,
+                "stage": 1,
+                "hash": "49dc8a703f214b7890b309a1ada51032"
+            },
+            {
+                "x": 7531,
+                "y": 9650,
+                "r": 1284,
+                "stage": 2,
+                "hash": "49dc8a703f214b7890b309a1ada51032"
+            },
+            {
+                "x": 8039,
+                "y": 9977,
+                "r": 642,
+                "stage": 3,
+                "hash": "49dc8a703f214b7890b309a1ada51032"
+            },
+            {
+                "x": 7822,
+                "y": 10055,
+                "r": 321,
+                "stage": 4,
+                "hash": "49dc8a703f214b7890b309a1ada51032"
+            }
+        ]
+    },
+    {
+        "x": 4770,
+        "y": 2736,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "6d7152812d7050f1edf7b1811f3a79a1",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 8419,
+                "y": 5403,
+                "r": 4894,
+                "stage": 0,
+                "hash": "6d7152812d7050f1edf7b1811f3a79a1"
+            },
+            {
+                "x": 6394,
+                "y": 3960,
+                "r": 2407,
+                "stage": 1,
+                "hash": "6d7152812d7050f1edf7b1811f3a79a1"
+            },
+            {
+                "x": 5454,
+                "y": 3347,
+                "r": 1284,
+                "stage": 2,
+                "hash": "6d7152812d7050f1edf7b1811f3a79a1"
+            },
+            {
+                "x": 4893,
+                "y": 3033,
+                "r": 642,
+                "stage": 3,
+                "hash": "6d7152812d7050f1edf7b1811f3a79a1"
+            },
+            {
+                "x": 4770,
+                "y": 2736,
+                "r": 321,
+                "stage": 4,
+                "hash": "6d7152812d7050f1edf7b1811f3a79a1"
+            }
+        ]
+    },
+    {
+        "x": 8125,
+        "y": 13780,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "458ce38f96a7b1cc7239f09b91f2cb13",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7405,
+                "y": 9302,
+                "r": 4894,
+                "stage": 0,
+                "hash": "458ce38f96a7b1cc7239f09b91f2cb13"
+            },
+            {
+                "x": 7816,
+                "y": 11754,
+                "r": 2407,
+                "stage": 1,
+                "hash": "458ce38f96a7b1cc7239f09b91f2cb13"
+            },
+            {
+                "x": 8165,
+                "y": 12822,
+                "r": 1284,
+                "stage": 2,
+                "hash": "458ce38f96a7b1cc7239f09b91f2cb13"
+            },
+            {
+                "x": 8095,
+                "y": 13460,
+                "r": 642,
+                "stage": 3,
+                "hash": "458ce38f96a7b1cc7239f09b91f2cb13"
+            },
+            {
+                "x": 8125,
+                "y": 13780,
+                "r": 321,
+                "stage": 4,
+                "hash": "458ce38f96a7b1cc7239f09b91f2cb13"
+            }
+        ]
+    },
+    {
+        "x": 6654,
+        "y": 9072,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "82bfd1b89dd813fbab6814a4f2c0e068",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7179,
+                "y": 7477,
+                "r": 4894,
+                "stage": 0,
+                "hash": "82bfd1b89dd813fbab6814a4f2c0e068"
+            },
+            {
+                "x": 7755,
+                "y": 9896,
+                "r": 2407,
+                "stage": 1,
+                "hash": "82bfd1b89dd813fbab6814a4f2c0e068"
+            },
+            {
+                "x": 6791,
+                "y": 9478,
+                "r": 1284,
+                "stage": 2,
+                "hash": "82bfd1b89dd813fbab6814a4f2c0e068"
+            },
+            {
+                "x": 6493,
+                "y": 9031,
+                "r": 642,
+                "stage": 3,
+                "hash": "82bfd1b89dd813fbab6814a4f2c0e068"
+            },
+            {
+                "x": 6654,
+                "y": 9072,
+                "r": 321,
+                "stage": 4,
+                "hash": "82bfd1b89dd813fbab6814a4f2c0e068"
+            }
+        ]
+    },
+    {
+        "x": 9705,
+        "y": 8309,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "e270a3801b89535ec622b4846d6aeaa0",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7264,
+                "y": 8072,
+                "r": 4894,
+                "stage": 0,
+                "hash": "e270a3801b89535ec622b4846d6aeaa0"
+            },
+            {
+                "x": 9372,
+                "y": 7403,
+                "r": 2407,
+                "stage": 1,
+                "hash": "e270a3801b89535ec622b4846d6aeaa0"
+            },
+            {
+                "x": 9581,
+                "y": 8351,
+                "r": 1284,
+                "stage": 2,
+                "hash": "e270a3801b89535ec622b4846d6aeaa0"
+            },
+            {
+                "x": 9630,
+                "y": 8296,
+                "r": 642,
+                "stage": 3,
+                "hash": "e270a3801b89535ec622b4846d6aeaa0"
+            },
+            {
+                "x": 9705,
+                "y": 8309,
+                "r": 321,
+                "stage": 4,
+                "hash": "e270a3801b89535ec622b4846d6aeaa0"
+            }
+        ]
+    },
+    {
+        "x": 14241,
+        "y": 10662,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "e9f456db9c6bf09d5c7f4dedf1dfb5a2",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 10268,
+                "y": 8536,
+                "r": 4894,
+                "stage": 0,
+                "hash": "e9f456db9c6bf09d5c7f4dedf1dfb5a2"
+            },
+            {
+                "x": 12508,
+                "y": 9616,
+                "r": 2407,
+                "stage": 1,
+                "hash": "e9f456db9c6bf09d5c7f4dedf1dfb5a2"
+            },
+            {
+                "x": 13469,
+                "y": 10198,
+                "r": 1284,
+                "stage": 2,
+                "hash": "e9f456db9c6bf09d5c7f4dedf1dfb5a2"
+            },
+            {
+                "x": 13920,
+                "y": 10654,
+                "r": 642,
+                "stage": 3,
+                "hash": "e9f456db9c6bf09d5c7f4dedf1dfb5a2"
+            },
+            {
+                "x": 14241,
+                "y": 10662,
+                "r": 321,
+                "stage": 4,
+                "hash": "e9f456db9c6bf09d5c7f4dedf1dfb5a2"
+            }
+        ]
+    },
+    {
+        "x": 6798,
+        "y": 13326,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "e4032842fb41bbee45547b8a4e118709",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 6623,
+                "y": 8848,
+                "r": 4894,
+                "stage": 0,
+                "hash": "e4032842fb41bbee45547b8a4e118709"
+            },
+            {
+                "x": 6883,
+                "y": 11321,
+                "r": 2407,
+                "stage": 1,
+                "hash": "e4032842fb41bbee45547b8a4e118709"
+            },
+            {
+                "x": 6866,
+                "y": 12444,
+                "r": 1284,
+                "stage": 2,
+                "hash": "e4032842fb41bbee45547b8a4e118709"
+            },
+            {
+                "x": 6996,
+                "y": 13073,
+                "r": 642,
+                "stage": 3,
+                "hash": "e4032842fb41bbee45547b8a4e118709"
+            },
+            {
+                "x": 6798,
+                "y": 13326,
+                "r": 321,
+                "stage": 4,
+                "hash": "e4032842fb41bbee45547b8a4e118709"
+            }
+        ]
+    },
+    {
+        "x": 9116,
+        "y": 2700,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "34e2de4e7401257c0a97300d0223d9d8",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 8996,
+                "y": 6669,
+                "r": 4894,
+                "stage": 0,
+                "hash": "34e2de4e7401257c0a97300d0223d9d8"
+            },
+            {
+                "x": 8437,
+                "y": 4246,
+                "r": 2407,
+                "stage": 1,
+                "hash": "34e2de4e7401257c0a97300d0223d9d8"
+            },
+            {
+                "x": 8890,
+                "y": 3219,
+                "r": 1284,
+                "stage": 2,
+                "hash": "34e2de4e7401257c0a97300d0223d9d8"
+            },
+            {
+                "x": 8878,
+                "y": 2585,
+                "r": 642,
+                "stage": 3,
+                "hash": "34e2de4e7401257c0a97300d0223d9d8"
+            },
+            {
+                "x": 9116,
+                "y": 2700,
+                "r": 321,
+                "stage": 4,
+                "hash": "34e2de4e7401257c0a97300d0223d9d8"
+            }
+        ]
+    },
+    {
+        "x": 9816,
+        "y": 2037,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "4a0dfe858753384dd0d4e2501d10fd2c",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 8587,
+                "y": 6401,
+                "r": 4894,
+                "stage": 0,
+                "hash": "4a0dfe858753384dd0d4e2501d10fd2c"
+            },
+            {
+                "x": 9106,
+                "y": 3970,
+                "r": 2407,
+                "stage": 1,
+                "hash": "4a0dfe858753384dd0d4e2501d10fd2c"
+            },
+            {
+                "x": 9391,
+                "y": 2883,
+                "r": 1284,
+                "stage": 2,
+                "hash": "4a0dfe858753384dd0d4e2501d10fd2c"
+            },
+            {
+                "x": 9602,
+                "y": 2277,
+                "r": 642,
+                "stage": 3,
+                "hash": "4a0dfe858753384dd0d4e2501d10fd2c"
+            },
+            {
+                "x": 9816,
+                "y": 2037,
+                "r": 321,
+                "stage": 4,
+                "hash": "4a0dfe858753384dd0d4e2501d10fd2c"
+            },
+            {
+                "x": 9797,
+                "y": 1981,
+                "r": 0,
+                "stage": 5,
+                "hash": "4a0dfe858753384dd0d4e2501d10fd2c"
+            }
+        ]
+    },
+    {
+        "x": 9036,
+        "y": 12330,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "99f4896527f0fb5a4a38f270d0fb7ee3",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7932,
+                "y": 8109,
+                "r": 4894,
+                "stage": 0,
+                "hash": "99f4896527f0fb5a4a38f270d0fb7ee3"
+            },
+            {
+                "x": 8204,
+                "y": 10581,
+                "r": 2407,
+                "stage": 1,
+                "hash": "99f4896527f0fb5a4a38f270d0fb7ee3"
+            },
+            {
+                "x": 8844,
+                "y": 11486,
+                "r": 1284,
+                "stage": 2,
+                "hash": "99f4896527f0fb5a4a38f270d0fb7ee3"
+            },
+            {
+                "x": 8906,
+                "y": 12079,
+                "r": 642,
+                "stage": 3,
+                "hash": "99f4896527f0fb5a4a38f270d0fb7ee3"
+            },
+            {
+                "x": 9036,
+                "y": 12330,
+                "r": 321,
+                "stage": 4,
+                "hash": "99f4896527f0fb5a4a38f270d0fb7ee3"
+            }
+        ]
+    },
+    {
+        "x": 4742,
+        "y": 2761,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "56aa9e67adae3a68ebc7dd76f6154ee7",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7984,
+                "y": 5562,
+                "r": 4894,
+                "stage": 0,
+                "hash": "56aa9e67adae3a68ebc7dd76f6154ee7"
+            },
+            {
+                "x": 5952,
+                "y": 4128,
+                "r": 2407,
+                "stage": 1,
+                "hash": "56aa9e67adae3a68ebc7dd76f6154ee7"
+            },
+            {
+                "x": 4911,
+                "y": 3709,
+                "r": 1284,
+                "stage": 2,
+                "hash": "56aa9e67adae3a68ebc7dd76f6154ee7"
+            },
+            {
+                "x": 4783,
+                "y": 3080,
+                "r": 642,
+                "stage": 3,
+                "hash": "56aa9e67adae3a68ebc7dd76f6154ee7"
+            },
+            {
+                "x": 4742,
+                "y": 2761,
+                "r": 321,
+                "stage": 4,
+                "hash": "56aa9e67adae3a68ebc7dd76f6154ee7"
+            }
+        ]
+    },
+    {
+        "x": 6611,
+        "y": 3305,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "42b1c6a93eefb1229762d719fed4b0d3",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7190,
+                "y": 6900,
+                "r": 4894,
+                "stage": 0,
+                "hash": "42b1c6a93eefb1229762d719fed4b0d3"
+            },
+            {
+                "x": 7219,
+                "y": 4413,
+                "r": 2407,
+                "stage": 1,
+                "hash": "42b1c6a93eefb1229762d719fed4b0d3"
+            },
+            {
+                "x": 6959,
+                "y": 3321,
+                "r": 1284,
+                "stage": 2,
+                "hash": "42b1c6a93eefb1229762d719fed4b0d3"
+            },
+            {
+                "x": 6348,
+                "y": 3400,
+                "r": 642,
+                "stage": 3,
+                "hash": "42b1c6a93eefb1229762d719fed4b0d3"
+            },
+            {
+                "x": 6611,
+                "y": 3305,
+                "r": 321,
+                "stage": 4,
+                "hash": "42b1c6a93eefb1229762d719fed4b0d3"
+            }
+        ]
+    },
+    {
+        "x": 8549,
+        "y": 14166,
+        "r": 438,
+        "occurrences": 2,
+        "hash": "ea5c4b955573b67fb07d89d80ac3bd74",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 9109,
+                "y": 10058,
+                "r": 4894,
+                "stage": 0,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            },
+            {
+                "x": 8930,
+                "y": 12538,
+                "r": 2407,
+                "stage": 1,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            },
+            {
+                "x": 8418,
+                "y": 13537,
+                "r": 1284,
+                "stage": 2,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            },
+            {
+                "x": 8549,
+                "y": 14166,
+                "r": 642,
+                "stage": 3,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            },
+            {
+                "x": 8549,
+                "y": 14166,
+                "r": 438,
+                "stage": 4,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            },
+            {
+                "x": 8549,
+                "y": 14166,
+                "r": 438,
+                "stage": 4,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            },
+            {
+                "x": 8641,
+                "y": 14474,
+                "r": 321,
+                "stage": 4,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            },
+            {
+                "x": 8641,
+                "y": 14474,
+                "r": 232,
+                "stage": 5,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            },
+            {
+                "x": 8641,
+                "y": 14474,
+                "r": 234,
+                "stage": 5,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            }
+        ]
+    },
+    {
+        "x": 8641,
+        "y": 14474,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "ea5c4b955573b67fb07d89d80ac3bd74",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 9109,
+                "y": 10058,
+                "r": 4894,
+                "stage": 0,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            },
+            {
+                "x": 8930,
+                "y": 12538,
+                "r": 2407,
+                "stage": 1,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            },
+            {
+                "x": 8418,
+                "y": 13537,
+                "r": 1284,
+                "stage": 2,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            },
+            {
+                "x": 8549,
+                "y": 14166,
+                "r": 642,
+                "stage": 3,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            },
+            {
+                "x": 8549,
+                "y": 14166,
+                "r": 438,
+                "stage": 4,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            },
+            {
+                "x": 8549,
+                "y": 14166,
+                "r": 438,
+                "stage": 4,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            },
+            {
+                "x": 8641,
+                "y": 14474,
+                "r": 321,
+                "stage": 4,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            },
+            {
+                "x": 8641,
+                "y": 14474,
+                "r": 232,
+                "stage": 5,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            },
+            {
+                "x": 8641,
+                "y": 14474,
+                "r": 234,
+                "stage": 5,
+                "hash": "ea5c4b955573b67fb07d89d80ac3bd74"
+            }
+        ]
+    },
+    {
+        "x": 5215,
+        "y": 8046,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "146378f03f8484d848dc94d073df16ca",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7434,
+                "y": 8259,
+                "r": 4894,
+                "stage": 0,
+                "hash": "146378f03f8484d848dc94d073df16ca"
+            },
+            {
+                "x": 5184,
+                "y": 7200,
+                "r": 2407,
+                "stage": 1,
+                "hash": "146378f03f8484d848dc94d073df16ca"
+            },
+            {
+                "x": 5118,
+                "y": 8236,
+                "r": 1284,
+                "stage": 2,
+                "hash": "146378f03f8484d848dc94d073df16ca"
+            },
+            {
+                "x": 4920,
+                "y": 7996,
+                "r": 642,
+                "stage": 3,
+                "hash": "146378f03f8484d848dc94d073df16ca"
+            },
+            {
+                "x": 5215,
+                "y": 8046,
+                "r": 321,
+                "stage": 4,
+                "hash": "146378f03f8484d848dc94d073df16ca"
+            }
+        ]
+    },
+    {
+        "x": 5368,
+        "y": 12207,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "67c8788eb2f237cc8d076dc7c7f6ea70",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7809,
+                "y": 8608,
+                "r": 4894,
+                "stage": 0,
+                "hash": "67c8788eb2f237cc8d076dc7c7f6ea70"
+            },
+            {
+                "x": 6069,
+                "y": 10384,
+                "r": 2407,
+                "stage": 1,
+                "hash": "67c8788eb2f237cc8d076dc7c7f6ea70"
+            },
+            {
+                "x": 5388,
+                "y": 11277,
+                "r": 1284,
+                "stage": 2,
+                "hash": "67c8788eb2f237cc8d076dc7c7f6ea70"
+            },
+            {
+                "x": 5260,
+                "y": 11906,
+                "r": 642,
+                "stage": 3,
+                "hash": "67c8788eb2f237cc8d076dc7c7f6ea70"
+            },
+            {
+                "x": 5368,
+                "y": 12207,
+                "r": 321,
+                "stage": 4,
+                "hash": "67c8788eb2f237cc8d076dc7c7f6ea70"
+            }
+        ]
+    },
+    {
+        "x": 6900,
+        "y": 12166,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "05118325ecb0673d806495ab0b3a0bd3",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7090,
+                "y": 7980,
+                "r": 4894,
+                "stage": 0,
+                "hash": "05118325ecb0673d806495ab0b3a0bd3"
+            },
+            {
+                "x": 7168,
+                "y": 10466,
+                "r": 2407,
+                "stage": 1,
+                "hash": "05118325ecb0673d806495ab0b3a0bd3"
+            },
+            {
+                "x": 6978,
+                "y": 11573,
+                "r": 1284,
+                "stage": 2,
+                "hash": "05118325ecb0673d806495ab0b3a0bd3"
+            },
+            {
+                "x": 6692,
+                "y": 12131,
+                "r": 642,
+                "stage": 3,
+                "hash": "05118325ecb0673d806495ab0b3a0bd3"
+            },
+            {
+                "x": 6900,
+                "y": 12166,
+                "r": 321,
+                "stage": 4,
+                "hash": "05118325ecb0673d806495ab0b3a0bd3"
+            }
+        ]
+    },
+    {
+        "x": 9382,
+        "y": 3765,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "d74b73370a184080a100748b7ec2496a",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7648,
+                "y": 6646,
+                "r": 4894,
+                "stage": 0,
+                "hash": "d74b73370a184080a100748b7ec2496a"
+            },
+            {
+                "x": 8695,
+                "y": 4390,
+                "r": 2407,
+                "stage": 1,
+                "hash": "d74b73370a184080a100748b7ec2496a"
+            },
+            {
+                "x": 8832,
+                "y": 3276,
+                "r": 1284,
+                "stage": 2,
+                "hash": "d74b73370a184080a100748b7ec2496a"
+            },
+            {
+                "x": 9396,
+                "y": 3485,
+                "r": 642,
+                "stage": 3,
+                "hash": "d74b73370a184080a100748b7ec2496a"
+            },
+            {
+                "x": 9382,
+                "y": 3765,
+                "r": 321,
+                "stage": 4,
+                "hash": "d74b73370a184080a100748b7ec2496a"
+            }
+        ]
+    },
+    {
+        "x": 9305,
+        "y": 7515,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "cd2ab467aa171a8e4f9044c0958b4017",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 8063,
+                "y": 6039,
+                "r": 4894,
+                "stage": 0,
+                "hash": "cd2ab467aa171a8e4f9044c0958b4017"
+            },
+            {
+                "x": 8229,
+                "y": 7477,
+                "r": 2407,
+                "stage": 1,
+                "hash": "cd2ab467aa171a8e4f9044c0958b4017"
+            },
+            {
+                "x": 8899,
+                "y": 7540,
+                "r": 1284,
+                "stage": 2,
+                "hash": "cd2ab467aa171a8e4f9044c0958b4017"
+            },
+            {
+                "x": 9128,
+                "y": 7337,
+                "r": 642,
+                "stage": 3,
+                "hash": "cd2ab467aa171a8e4f9044c0958b4017"
+            },
+            {
+                "x": 9305,
+                "y": 7515,
+                "r": 321,
+                "stage": 4,
+                "hash": "cd2ab467aa171a8e4f9044c0958b4017"
+            }
+        ]
+    },
+    {
+        "x": 4608,
+        "y": 3659,
+        "r": 321,
+        "occurrences": 1,
+        "hash": "ef0acd97e77bb9d24232a76ac3efe1f4",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7159,
+                "y": 7250,
+                "r": 4894,
+                "stage": 0,
+                "hash": "ef0acd97e77bb9d24232a76ac3efe1f4"
+            },
+            {
+                "x": 5936,
+                "y": 5085,
+                "r": 2407,
+                "stage": 1,
+                "hash": "ef0acd97e77bb9d24232a76ac3efe1f4"
+            },
+            {
+                "x": 5463,
+                "y": 4066,
+                "r": 1284,
+                "stage": 2,
+                "hash": "ef0acd97e77bb9d24232a76ac3efe1f4"
+            },
+            {
+                "x": 4888,
+                "y": 3789,
+                "r": 642,
+                "stage": 3,
+                "hash": "ef0acd97e77bb9d24232a76ac3efe1f4"
+            },
+            {
+                "x": 4608,
+                "y": 3659,
+                "r": 321,
+                "stage": 4,
+                "hash": "ef0acd97e77bb9d24232a76ac3efe1f4"
+            }
+        ]
+    },
+    {
+        "x": 11173,
+        "y": 13436,
+        "r": 321,
+        "occurrences": 2,
+        "hash": "23ab0b3c283b162a1c5da71e473f3c1e",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 9095,
+                "y": 9381,
+                "r": 4894,
+                "stage": 0,
+                "hash": "23ab0b3c283b162a1c5da71e473f3c1e"
+            },
+            {
+                "x": 10137,
+                "y": 11637,
+                "r": 2407,
+                "stage": 1,
+                "hash": "23ab0b3c283b162a1c5da71e473f3c1e"
+            },
+            {
+                "x": 10735,
+                "y": 12589,
+                "r": 1284,
+                "stage": 2,
+                "hash": "23ab0b3c283b162a1c5da71e473f3c1e"
+            },
+            {
+                "x": 11085,
+                "y": 13128,
+                "r": 642,
+                "stage": 3,
+                "hash": "23ab0b3c283b162a1c5da71e473f3c1e"
+            },
+            {
+                "x": 11173,
+                "y": 13436,
+                "r": 321,
+                "stage": 4,
+                "hash": "23ab0b3c283b162a1c5da71e473f3c1e"
+            }
+        ]
+    },
+    {
+        "x": 9561,
+        "y": 7475,
+        "r": 321,
+        "occurrences": 2,
+        "hash": "4e767793a1562a70269bef0517511f9e",
+        "periodKey": "s23_s1",
+        "periodName": "Season 23 Split 1",
+        "rings": [
+            {
+                "x": 7323,
+                "y": 7516,
+                "r": 4894,
+                "stage": 0,
+                "hash": "4e767793a1562a70269bef0517511f9e"
+            },
+            {
+                "x": 9642,
+                "y": 7535,
+                "r": 2407,
+                "stage": 1,
+                "hash": "4e767793a1562a70269bef0517511f9e"
+            },
+            {
+                "x": 9085,
+                "y": 7331,
+                "r": 1284,
+                "stage": 2,
+                "hash": "4e767793a1562a70269bef0517511f9e"
+            },
+            {
+                "x": 9407,
+                "y": 7655,
+                "r": 642,
+                "stage": 3,
+                "hash": "4e767793a1562a70269bef0517511f9e"
+            },
+            {
+                "x": 9561,
+                "y": 7475,
+                "r": 321,
+                "stage": 4,
+                "hash": "4e767793a1562a70269bef0517511f9e"
+            },
+            {
+                "x": 9561,
+                "y": 7475,
+                "r": 294,
+                "stage": 5,
+                "hash": "4e767793a1562a70269bef0517511f9e"
+            },
+            {
+                "x": 9561,
+                "y": 7475,
+                "r": 304,
+                "stage": 5,
+                "hash": "4e767793a1562a70269bef0517511f9e"
+            },
+            {
+                "x": 9623,
+                "y": 7466,
+                "r": 0,
+                "stage": 5,
+                "hash": "4e767793a1562a70269bef0517511f9e"
+            }
+        ]
+    },
+    {
         "x": 8465,
         "y": 6485,
         "r": 321,
